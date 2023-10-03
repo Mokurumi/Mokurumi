@@ -9,7 +9,7 @@ Let's connect and code together to bring more positivity to the digital realm! F
 
 ## Skills
 
-- Web Development: JavaScript, HTML, CSS, React, Node.js
+- Web Development: JavaScript, HTML, CSS, React, Next, React Native, Node.js
 - Cyber Security: Cloud Security, Network Security, Systems Security
 - Programming Languages: Python, C, Java
 
