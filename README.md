@@ -11,7 +11,7 @@ Let's connect and code together to bring more positivity to the digital realm! F
 
 - Frontend Development: JavaScript, HTML, CSS, React, Next, React Native, Node.js
 - Cyber Security: Cloud Security, Network Security, Systems Security
-- Programming Languages: Python, C, Java
+- Other Programming: Python, C, Java
 
 ## Contact
 
