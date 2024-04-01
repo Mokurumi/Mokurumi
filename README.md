@@ -9,7 +9,7 @@ Let's connect and code together to bring more positivity to the digital realm! F
 
 ## Skills
 
-- Frontend Development: JavaScript, HTML, CSS, React, Next, React Native, Node.js
+- Frontend Development: JavaScript, HTML, CSS, React, Next, Vue, Nuxt, React Native, Node.js
 - Cyber Security: Cloud Security, Network Security, Systems Security
 - Other Programming: Python, C, Java
 
